@@ -6,7 +6,7 @@ This is a simple Vue component that allows you to bind your page title to Vue.
 
 Using `vue-title` is very easy.
 
-1) Import `vue-title.min.js` into your project. (You can find it in `dist` folder).
+1) Import [vue-title.min.js](dist/vue-title.min.js) into your project. (You can find it in `dist` folder).
 
 2) Add `vue-title` component to your Vue template.
 
@@ -25,7 +25,6 @@ new Vue({
 })
 ```
 
-## Demo
-
-Here is a working example.
+## License 
+MIT
 
