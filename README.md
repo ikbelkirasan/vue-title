@@ -12,16 +12,16 @@ Using `vue-title` is very easy.
 
 ```html
 <div id="app">
-	<vue-title>{{pageTitle}}</vue-title>
+  <vue-title>{{pageTitle}}</vue-title>
 </div>
 ```
 
 ```javascript
 new Vue({
-	el: '#app',
-	data: {
-		pageTitle: 'vue-title page'
-	}
+  el: '#app',
+  data: {
+    pageTitle: 'vue-title page'
+  }
 })
 ```
 
